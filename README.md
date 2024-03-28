@@ -1,6 +1,6 @@
 # Credit Card Approval Prediction
 
-##Google Colab Link
+## Google Colab Link
 
 https://colab.research.google.com/drive/1qB78DD3H2zSchQCnn3lGmQxVE3DIhfKj?usp=sharing
 
