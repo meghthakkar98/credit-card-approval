@@ -1,5 +1,9 @@
 # Credit Card Approval Prediction
 
+##Google Colab Link
+
+https://colab.research.google.com/drive/1qB78DD3H2zSchQCnn3lGmQxVE3DIhfKj?usp=sharing
+
 ## Overview
 This project focuses on improving credit risk assessments through advanced machine learning algorithms. Our aim was to develop a model capable of accurately differentiating between "good" and "bad" credit risks, based on a wide range of borrower data that extends beyond conventional financial indicators.
 
