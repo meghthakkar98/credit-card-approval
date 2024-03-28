@@ -1,5 +1,4 @@
 # Credit Card Approval Prediction
-### Project Lead | [Project Link](#) | March 2024
 
 ## Overview
 This project focuses on improving credit risk assessments through advanced machine learning algorithms. Our aim was to develop a model capable of accurately differentiating between "good" and "bad" credit risks, based on a wide range of borrower data that extends beyond conventional financial indicators.
